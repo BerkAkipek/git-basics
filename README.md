@@ -29,6 +29,12 @@ foobar.singularize('phenomena')
 
 ![Pikachu](./Assets/captain_pikachu.jpg)
 
+- Bullet point Text 1
+- Bullet point Text 2
+
+1. Numbered Text 1
+2. Numbered Text 2
+
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 

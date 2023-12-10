@@ -35,6 +35,14 @@ foobar.singularize('phenomena')
 1. Numbered Text 1
 2. Numbered Text 2
 
+You can add code block with indentation
+
+    def main():
+        print("Hello World")
+
+    if __name__ == '__main__':
+        main()
+
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
